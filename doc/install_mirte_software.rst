@@ -9,7 +9,7 @@ installation of the SD card software.
 
    The current link to the downloads contains a folder with 
    multiple versions of the Mirte software. At a later stage this
-   will be replaced by versions created by github. For now: please
+   will be replaced by versions created by GitHub. For now: please
    use the latest version, unless stated otherwise).
 
 

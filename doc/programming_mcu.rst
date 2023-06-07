@@ -6,7 +6,7 @@ can also only program on the MCU. Where the standard Mirte software using teleme
 is making the MCU a dumb slave, this setup will make your SBC a dumb slave. One option
 of course is to connect your MCU to your own computer. This section covers some 
 options to program the MCU from your computer over the air (wireless) where the
-SBC is just a wifi spot to your MCU.
+SBC is just a Wi-Fi spot to your MCU.
 
 .. warning::
 
@@ -94,7 +94,7 @@ with `Platform IO <https://platformio.org/install/ide?install=vscode>`_.
 1. Create a new project by following the first two steps as described `here <https://docs.platformio.org/en/latest/integration/ide/vscode.html#setting-up-the-project>`_.
    You can still use the Arduino Uno in the example, you will override this later.
 2. Replace the existing platformio.ini file of your project with the one below (replace
-   <mirte_ip_address> with the IP address of your robot.
+   <mirte_IP_address> with the IP address of your robot.
 3. Start coding in main.cpp
 
 .. tabs::

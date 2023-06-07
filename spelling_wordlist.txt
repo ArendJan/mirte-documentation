@@ -16,7 +16,7 @@ Nano
 Uno
 launchfile
 platformio
-wifi
+Wi-Fi
 ini
 systemd
 bringup
@@ -32,3 +32,15 @@ Teleop
 cmd
 vel
 PWM
+getters
+setters
+OLED
+Blocky
+Wi
+Fi
+Vue
+Node.js
+src
+js
+Duckybots
+Mindstorms

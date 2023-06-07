@@ -12,7 +12,7 @@ Driving around
 From web interface
 ==================
 
-The robot can be controller from the web interface by goin to the 'control' tab:
+The robot can be controller from the web interface by going to the 'control' tab:
 
       .. image:: images/driving_around.png
         :width: 600
@@ -47,7 +47,7 @@ There is also an Android app which allows you to control Mirte (or any ROS-based
 download `ROS-mobile here <https://play.google.com/store/apps/details?id=com.schneewittchen.rosandroid>`_. 
 In order to drive around you need to connect to the robot:
 
-- Master URL: <your robot ip>
+- Master URL: <your robot IP>
 - Master port: 11311
 - Wi-Fi: <connect to the same network as the robot>
 
@@ -56,7 +56,7 @@ In the details tab you still need to add the Joystick widget and set the topic n
 - Topic Name: /mobile_base_controller/cmd_vel
 
 You can now drive around in the 'viz' tab. When a USB camera is attached you can also
-view the image stream. You nees to add a Camera widget in teh details tab and set the
+view the image stream. You need to add a Camera widget in the details tab and set the
 topic name:
 
 - Topic Name: /webcam/image_raw/compressed

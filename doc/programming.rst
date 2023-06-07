@@ -63,7 +63,7 @@ examples from Jupyter-ROS (which are located at /home/mirte/jupyter-ros). If you
 
    mirte$ sudo systemctl enable mirte-jupyter
 
-You can now enter Jupyter by brwosing to http://mirte.local:8888 and start a new notebook:
+You can now enter Jupyter by browsing to http://mirte.local:8888 and start a new notebook:
 
 .. image:: images/jupyter_python.png
      :width: 600
@@ -74,8 +74,8 @@ You can now enter Jupyter by brwosing to http://mirte.local:8888 and start a new
 From terminal
 -------------
 
-Of course it is also possible to progrma the robot from withun the Python interpreter,
-or your own Pytohn script. 
+Of course it is also possible to program the robot from within the Python interpreter,
+or your own Python script. 
 
 .. code-block:: python
 
@@ -124,7 +124,7 @@ You can also run the launchfile yourself (only when you stopped the systemd serv
 
 
 
-Using ROS icw Python API
+Using ROS with Python API
 ------------------------
 
 Although not preferred, at some point it might be useful to combine the existing Python API

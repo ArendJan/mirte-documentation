@@ -67,7 +67,7 @@ Note that this can only be done on Linux machines.
 Development for Web Interface
 =============================
 
-Developing the Vue frontend on the orangepi might be tricky due to the limited RAM of the 
+Developing the Vue front-end on the orangepi might be tricky due to the limited RAM of the 
 SBC. It therefore is advised to checkout the mirte-web-interface on your own machine
 and develop there:
 
@@ -84,7 +84,7 @@ and develop there:
 
 You can now access the web interface on http://localhost:4000. Since this is running locally
 on your machine. Not everything might be working (eg. the connection to ROS). You can therefore
-also build the frontend locally and upload it to the robot:
+also build the front-end locally and upload it to the robot:
 
 .. code-block:: bash
 

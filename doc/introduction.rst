@@ -4,7 +4,7 @@ Introduction
 
 So, although the robot itself is complex, we are just trying to abstract all this complexity away for the kids. The learning experience for the kids will be pealing off these abstraction layers and diving deeper and deeper into the working of the robot. This is why we thing it should be open source and have as few custom parts as possible.
 
-Our (utopian?) goal is for each kid to get a Mirte in primary/elementary school and explore this robot throughout their educational journey. Kids should never run into a huge knowlegde gap to get to their goal. They should be limited by their knowledge, and not by the platform. With most other platforms at some point you will bump into the limitations (or customly designed parts) of the robot.
+Our (utopian?) goal is for each kid to get a Mirte in primary/elementary school and explore this robot throughout their educational journey. Kids should never run into a huge knowledge gap to get to their goal. They should be limited by their knowledge, and not by the platform. With most other platforms at some point you will bump into the limitations (or custom designed parts) of the robot.
 
 We also see that a lot of the available robotic kids focus on software. And although a lot of systems thinking can already be learned while developing the logic for your robot, there is more to it. Some problems can be solved in both software and hardware. Some possible solutions will make you rethink your choices made in other disciplines. This should be reflected in the robot and the accompanying tutorials.
 
