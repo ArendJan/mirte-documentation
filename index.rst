@@ -7,6 +7,7 @@ Mirte Documentation
    :maxdepth: 1
    :hidden:
 
+   doc/introduction
    doc/get_mirte_hardware
    doc/build_mirte_hardware
    doc/connecting_cables
@@ -18,6 +19,7 @@ Mirte Documentation
    doc/driving_around
    doc/programming
    doc/programming_mcu
+   doc/faq
 
 .. toctree::
    :caption: APIs

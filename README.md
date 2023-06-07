@@ -44,3 +44,10 @@ Check for spelling with the following command
 make spelling
 ```
 Add correct words to the ```spelling_wordlist.txt``` file.
+
+## Development
+Use ```sphinx-autobuild``` to automatically reload a browser tab on changes.
+```sh
+pip install sphinx-autobuild
+sphinx-autobuild . _build/html
+```

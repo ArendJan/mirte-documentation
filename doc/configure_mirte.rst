@@ -67,9 +67,12 @@ Below we will got though all sections (of the STM32 on a breadboard).
    device:
      mirte:
        type: breadboard
-       mcu: stm32                     # [stm32, nano, nano_old, uno]
+       mcu: stm32                     # [stm32, nano, nano_old, uno, pico]
 
 Each config needs to state which type of device is is controlling. In this case we have 
 one device called 'mirte' of type 'breadboard' with a 'stm32' on it. The sampling interval 
 is set to 10ms (100Hz), being the interval the data will be communicated from the mcu. 
 
+Example configurations
+----------------------
+The mirte-ros-packages contains example files for several microcontrollers and PCBs. They can be found in `/usr/local/src/mirte/mirte-ros-packages/mirte_telemetrix/config/ <https://github.com/mirte-robot/mirte-ros-packages/blob/main/mirte_telemetrix/config/>`_.

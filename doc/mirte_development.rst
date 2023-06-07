@@ -16,7 +16,7 @@ Building a custom SD image
 The latest image can be downloaded from `the download site <http://dl.mirte.org>`_. For university
 or maker level this might not fully do what you want in your course. In that case you can modify
 the image yourself and add software or default settings. This can be done with the mirte-sd-image-tools.
-Note that this can onlu be done on Linux machines.
+Note that this can only be done on Linux machines.
 
 1. Checkout the mirte-sd-image-tools:
 
@@ -96,7 +96,7 @@ also build the frontend locally and upload it to the robot:
 Adding another language
 =======================
 
-Multi lingual support is only available in the web interface and tutorials. We think children should
+Multilingual support is only available in the web interface and tutorials. We think children should
 learn technology in their own language instead of having to learn a foreign language at the same time. 
 At some point we do think students should be able to use English as a language to learn more about
 technology. 
