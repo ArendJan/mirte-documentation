@@ -35,7 +35,6 @@ PWM
 getters
 setters
 OLED
-Blocky
 Wi
 Fi
 Vue
@@ -44,3 +43,4 @@ src
 js
 Duckybots
 Mindstorms
+Pico
