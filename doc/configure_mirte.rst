@@ -68,10 +68,13 @@ Below we will got though all sections (of the STM32 on a breadboard).
      mirte:
        type: breadboard
        mcu: stm32                     # [stm32, nano, nano_old, uno, pico]
+       max_frequency: 50
 
 Each config needs to state which type of device is is controlling. In this case we have 
-one device called 'mirte' of type 'breadboard' with a 'stm32' on it. The sampling interval 
-is set to 10ms (100Hz), being the interval the data will be communicated from the mcu. 
+one device called 'mirte' of type 'breadboard' with a 'stm32' on it. The sampling rate 
+is set to 50Hz (20ms), being the rate the data will be communicated from the microcontroller to your application. 
+
+On the `next page <supported_hardware.html>`_ each supported device is shown with a configuration.
 
 Example configurations
 ----------------------

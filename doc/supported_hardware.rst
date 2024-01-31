@@ -157,6 +157,20 @@ Wheel encoder
 
       TODO
 
+The wheel encoder will only publish on change and will publish the steps since the start of the ROS Telemetrix node. 
+
+The Raspberry Pi Pico supports quadrature encoders. The pins don't need to have interrupts. To enable this, change the configuration to
+
+.. code-block:: yaml
+
+   encoder:
+     left:
+       name: left
+       device: mirte
+       pins:
+         A: 14
+         B: 15
+
 .. note::
 
    A maximum of 4 wheel encoders is supported.
@@ -196,7 +210,7 @@ Servo
 
    .. group-tab:: Blockly
 
-      Blocky code 
+      Blockly code 
 
 
 
@@ -244,7 +258,7 @@ Keypad
 
    .. group-tab:: Blockly
 
-      Blocky code 
+      Blockly code 
 
 
 OLED
